@@ -1,7 +1,7 @@
 ****************
 * Introduction
 
-This secure messanger is written in Python 2.7.5 with the assistance of the PyCrypto library. Using SHA-1, RSA keys, and 3DES a message is securely sent from Alice to Bob. Death to all rats and snitches.
+This secure meseanger is written in Python 2.7.5 with the assistance of the PyCrypto library. Using SHA-1, RSA keys, and 3DES a message is securely sent from Alice to Bob. Death to all rats and snitches.
 
 ********************
 *  Included Files 
